@@ -1,4 +1,4 @@
-API de fácil instalação para buscar qualquer cep Brasileiro :)
+API de fácil instalação para buscar qualquer cep Brasileiro
 
 Conceito
 -Basicamente, ao subir o container, ela baixa esse csv com 900k de endereços e salva na tabela 'correio.address' dentro do MySQL.
